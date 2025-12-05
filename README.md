@@ -60,7 +60,7 @@ https://documenter.getpostman.com/view/39820937/2sAYQcDpkp
 
 ## Test Case
 
-https://docs.google.com/spreadsheets/d/1J46yH8MItgMmvrAKKzzJ02qTye8Gbj70CHRdIvDZHNg/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1W6ciZrAoE848jcC8stBqwQGd0xizUNzQLkTupXxbZmM/edit?gid=0#gid=0
 
 ## Allure Report Screenshot
 
